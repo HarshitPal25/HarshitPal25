@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitpal25&show_icons=true&locale=en" alt="harshitpal25" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/HarshitPal25/HarshitPal25/blob/output/github-snake-dark.svg)
