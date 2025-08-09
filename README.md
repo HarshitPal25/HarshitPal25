@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Harshit Pal</h1>
-<h3 align="center">A passionate student learning devops and CyberSecurity</h3>
+<h3 align="center">A passionate student learning devops, CyberSecurity, python </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitpal25&label=Profile%20views&color=0e75b6&style=flat" alt="harshitpal25" /> </p>
 
-- 🌱 I’m currently learning **cybersecurity, devops**
+- 🌱 I’m currently learning **cybersecurity, python, devops**
 
 - 💬 Ask me about **bash, python, visualstudio, git, C, wireshark, docker,**
 
