@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <!-- Repo Badge Example -->
 [![Readme Generator](https://img.shields.io/github/stars/HarshitPal25/profile-readme-generator?label=Profile%20Readme%20Generator&style=social)](https://github.com/HarshitPal25/profile-readme-generator)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitPal25&show_icons=true&locale=en&layout=compact" alt="HarshitPal25" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitPal25&show_icons=true&locale=en&layout=compact" alt="HarshitPal25" theme="dark" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshitPal25&show_icons=true&locale=en" alt="HarshitPal25" /></p>
 
