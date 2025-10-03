@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=HarshitPal25&theme=radical" width="51%" />
 </div>
 <br /> -->
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=HarshitPal@25&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="HarshitPal25" color="dark" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=HarshitPal25&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="HarshitPal25" color="dark" />
 <!-- https://github-readme-stats.vercel.app/api?username=AmanDevelops&layout=compact&show_icons=true&theme=tokyonight -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitPal25&show_icons=true&theme=radical" alt="HarshitPal25" color="dark" />
 <br /> 
