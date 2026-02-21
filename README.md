@@ -54,5 +54,3 @@ Here are some ideas to get you started:
 <!-- https://github-readme-stats.vercel.app/api?username=AmanDevelops&layout=compact&show_icons=true&theme=tokyonight -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitPal25&show_icons=true&theme=radical" alt="HarshitPal25" color="dark" />
 <br /> 
-  
-![snake gif](https://github.com/HarshitPal25/HarshitPal25/blob/output/github-snake-dark.svg)
