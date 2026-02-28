@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitpal25&label=Profile%20views&color=0e75b6&style=flat" alt="harshitpal25" /> </p>
 
-- 🌱 I’m currently learning **cybersecurity, python, devops**
+-  I’m currently learning **cybersecurity, python, devops**
 
-- 💬 Ask me about **bash, python, visualstudio, git, C, wireshark, docker,**
+-  Ask me about **bash, python, visualstudio, git, C, wireshark, docker,**
 
-- 📫 How to reach me **harshit13082006.pal@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/qmsra3gk2hfl](https://flowcv.com/resume/qmsra3gk2hfl)
+-  How to reach me **harshit13082006.pal@gmail.com**
 
 - ⚡ Fun fact **Quick learner, gamer, and risk taker.**
 
