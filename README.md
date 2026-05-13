@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Harshit Pal</h1>
+<h2 align="center">Open source contributor</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshitpal25&label=Profile%20views&color=0e75b6&style=flat" alt="harshitpal25" /> </p>
 
